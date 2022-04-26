@@ -506,6 +506,9 @@ img{
 .skills__angular{
   width: 70%;
 }
+.skills__reactjs{
+  width: 10%;
+}
 .skills__typeScript{
   width: 70%;
 }.skills__csharp{
